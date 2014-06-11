@@ -21,6 +21,7 @@ Clone to local directory and cd to /blackjack then run:
 - Able to show initial bet value
 - Determine Blackjack
 - Player able to add another card
+- Able to run program
 
 ## Features in progress
 - Determine Winner
