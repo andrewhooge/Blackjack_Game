@@ -3,7 +3,7 @@ Blackjack_game
 
 This blackjack game is designed to be simple and allow the computer (house) to play a computer generated player.  Please see business analysis in wiki for more details.
 
-<b>Notes</b>
+<b>Notes: </b>
 Chet and Andrew worked on the game together initially, wireframming the game process and key functionality and then coding.  We decided on separate architecture for the final build. It takes a bit longer on the front end but we believe will provide a better build of the game in the end.
 
 Special Thanks to Josh and Michael for helping me navigate through some of the the challenges.
