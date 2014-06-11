@@ -32,4 +32,4 @@ Clone to local directory and cd to /blackjack then run:
 - Inherit Player Class from House (not really a feature)
 
 ## On deck features
-- Needs tests (have for card and deck but those were provided by Clinton in previous homework)
+- Needs testing behavior
